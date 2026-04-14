@@ -33,3 +33,8 @@ AI-Navigation/
  │    ├── astar.py
  │    └── simulation.py
  └── requirements.txt
+
+## 👩‍💻 Author
+Manasa Hiremath
+
+
